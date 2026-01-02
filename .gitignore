@@ -27,6 +27,9 @@ dist-ssr
 *.onnx
 *.bin
 *.weights
+*.pt
+*.npy
+*.jpg
 dataset/
 source_data/
 runs/
