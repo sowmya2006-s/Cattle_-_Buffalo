@@ -33,6 +33,7 @@ dist-ssr
 dataset/
 source_data/
 runs/
+bovine_lens_ai/
 
 # Python
 __pycache__/
