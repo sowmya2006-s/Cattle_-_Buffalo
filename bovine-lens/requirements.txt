@@ -1,0 +1,7 @@
+ultralytics
+torch
+torchvision
+tensorflowjs
+duckduckgo_search
+fastdownload
+fastcore
